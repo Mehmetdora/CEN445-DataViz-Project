@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+altair 
+vega_datasets
+scikit-learn
+matplotlib 
+seaborn
+pydeck
+pipreqs
